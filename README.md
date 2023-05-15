@@ -2,7 +2,7 @@
 
 Get one of Sanzo Wada's beautiful colors and its combinations right in you terminal
 
-![Output](./output.png)
+![Output](https://github.com/aliiscript/sanzo-combo/blob/main/output.png)
 
 ## Source
 
