@@ -35,7 +35,7 @@ if (args.all) {
             chalk_1.default.bgHex(swatches[i].hex)("    "));
     }
 }
-if (args.random) {
+else if (args.random) {
     let random = (0, utils_js_1.randomCombo)();
     (0, utils_js_1.formatCombo)(random);
 }
